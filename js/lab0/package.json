@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  },
+  "name": "lab0",
+  "version": "1.0.0",
+  "description": "Вам даны функция и метод численного интегрирования. Нужно реализовать функцию, которая принимает на вход диапазон численного интегрирования и вычисляет результат для заданной функции (вариант на выбор).",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmcs-wadv/Lab0.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mmcs-wadv/Lab0/issues"
+  },
+  "homepage": "https://github.com/mmcs-wadv/Lab0#readme"
+}
