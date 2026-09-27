@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "@types/node": "^26.6.0",
     "typescript": "^7.0.2"
   },
   "name": "lab0",
@@ -8,7 +9,7 @@
   "main": "index.js",
   "directories": {
     "doc": "docs"
-  },
+  },Оптимизированная реализация криптосистемы на небинарных QC-MDPC кодах-1.pdf
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,7 +18,7 @@
     "url": "git+https://github.com/mmcs-wadv/Lab0.git"
   },
   "keywords": [],
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/mmcs-wadv/Lab0/issues"
   },
